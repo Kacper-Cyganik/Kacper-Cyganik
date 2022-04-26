@@ -3,5 +3,6 @@
 
 Skills: Python / JavaScript / HTML / CSS / C
 
-- I’m currently learning backend technologies 
-- I'm passionate about retro video games, sci-fi anime and programming.
+- I’m currently learning backend technologies
+- I'm passionate about retro video games, sci-fi anime and programming
+- Linux Enjoyer
